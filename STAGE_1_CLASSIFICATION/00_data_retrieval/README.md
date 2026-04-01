@@ -3,7 +3,7 @@
 This directory contains scripts used for retrieving, preprocessing, and annotating sequence data for the West Nile virus (WNV) lineage classification analysis. 
 The workflow prepares phylogenetically informed labels for downstream machine learning models.
 
-## Overview of Workflow
+## Overview
 
 The data retrieval and labeling pipeline consists of the following steps:
 
