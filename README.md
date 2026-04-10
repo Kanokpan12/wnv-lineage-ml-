@@ -1,6 +1,6 @@
 # wnv-lineage-ml
 
-**Machine Learning–Based Prediction of West Nile Virus Lineages and Associated Pathogenic Risk** (unpublished)  
+**Machine Learning–Based Prediction of West Nile Virus Lineages and Lineage-Specific Pathogenic Potential: A Proof-of-Concept Study** (unpublished)  
 
 This repository provides a **complete computational and experimental workflow** for studying West Nile virus (WNV) genomic and lineage prediction. The analyses integrate phylogenetics, machine learning, and evolutionary analysis.  
 
