@@ -1,30 +1,12 @@
 # wnv-lineage-ml
 
-**Machine Learning–Based Prediction of West Nile Virus Lineages and Lineage-Specific Pathogenic Potential: A Proof-of-Concept Study** (unpublished)  
+**Explainable machine learning identifies West Nile Virus lineages but not neuroinvasive outcome** (unpublished)  
 
-This repository provides a **complete computational and experimental workflow** for studying West Nile virus (WNV) genomic and lineage prediction. The analyses integrate phylogenetics, machine learning, and evolutionary analysis.  
+This repository provides a **complete computational workflow** for studying West Nile virus (WNV) genomic and lineage prediction. The analyses integrate phylogenetics, machine learning to identify genetic signature.  
 
 ## Workflow Overview
 
-The project is organized into four main stages/folders:  
-
-1. **STAGE 1: Phylogenetic Labeling & Data Preparation**  
-   * Sequence cleaning, tree construction, and lineage mapping  
-   * Outputs: cleaned sequences, phylogenetic trees, annotated lineage labels  
-
-2. **STAGE 2: Machine Learning–Based Lineage Classification**  
-   * Whole-genome and gene-level predictive modeling using PyCaret  
-   * Feature importance mapping and gene-level visualization  
-   * Outputs: trained ML models, performance metrics, feature-gene importance maps  
-
-3. **STAGE 3: Selective Pressure Analysis**  
-   * Entropy screening, dN/dS estimation, and host-stratified evolutionary analysis  
-   * Outputs: site-specific selective pressure estimates, gene-level plots  
-
-4. **Miscellaneous: Additional R Analyses**  
-   * Epidemiology: US state-level WNV case mapping (historical 2009–2018 and recent 2025)  
-   * Mouse survival study: weight and clinical score visualization  
-   * Outputs: epidemiological maps, mouse study figures  
+<img width="254" height="367" alt="image" src="https://github.com/user-attachments/assets/365d7900-39f7-489b-8f41-aa2fcdf6a02d" />
 
 ## Folder Structure
 
